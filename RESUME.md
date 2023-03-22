@@ -1,13 +1,16 @@
 # Hugo Lundin
 
+I am a curious and ambitious person who loves to learn new things. I spend most of my time exploring the world of technology and mathematics.
+
+Do not hesitate to [contact me](mailto:hugo@lundin.dev) if you have any questions, suggestions or just want to chat! :) 
+
+---
+
 ## Education
 
-### M.Sc. in Computer Science and Engineering
+### Linköping University, 2019–2024 <br/>M.Sc. in Computer Science and Engineering
 
-#### Linköping University, 2019 – 2024
-
-* Master's profile in electronics.
-* Teaching assistant in introductory circuit theory for engineering students. 
+Master's degree in electronics. 
 
 <details>
   <summary>Courses</summary>
@@ -57,16 +60,85 @@
   * Switching Theory and Logical Design 
 </details>
 
-### Courses in Computer Science
-
-#### University of Gothenburg, 2016 – 2018
+### University of Gothenburg, 2016–2018<br/>Computer Science
 
 <details>
   <summary>Courses</summary>
+
+  ##### Undergraduate courses
+
+  * Introduction to Computer Programming and Environment
+  * Discrete Mathematics for Computer Scientists
+  * Introduction to Functional Programming
+  * Imperative Programming with Basic Object-orientation
+  * Linear Algebra D
+  * Object-oriented Programming and Design
+  * Calculus D
+  * Finite Automata Theory and Formal Languages
+  * Data Structures
+  * Introduction to Computer Engineering
+  * Mathematical Statistics and Discrete mathematics
+  * Machine Oriented Programming
+  * Databases
+  * Computer communication
+  * Principles of Concurrent Programming
+  * Mathematical modelling and Problem Solving
+  * Computer System Engineering 
+
 </details>
+
+---
 
 ## Work
 
+### Summer Internship<br/> Teledyne SP Devices, 2023
+
+### Summer Internship<br/> Nira Dynamics, 2022
+
+Research project about future solutions to store and query data from connected cars. 
+
+### Teaching Assistant<br/> Linköping University, 2020–2022
+
+Teaching and lab supervision in circuit theory courses for engineering students.
+
+### Summer Internship<br/> Cendio, 2021
+
+Made contributions to [TigerVNC](https://github.com/TigerVNC/tigervnc) for improving support and management of multiple monitors.
+
+### Software Developer <br/>Plejd, 2018–2019<br/>Full-time
+
+* Took part in designing, developing and testing a [Buildroot](https://buildroot.org)-based embedded Linux system for a consumer product.
+* Developed a [NATS](https://nats.io)-based microservice architecture with our own server and client stack.
+* Developed software for communication with co-processors, cloud services, OTA update servers, bluetooth-mesh services, manufacturing test-fixtures and third-party services. 
+* We focused on building a future-proof, maintainable and reliable system with great extensibility. The design allowed us to continously expand the system with new functionality. 
+
+### Software Developer <br/>Inceptive, 2017-2018<br/>Part-time
+
+* Developed a concept application for traffic visualization in augmented reality.
+* The app was built using Unity and I was primarly responsible for data streaming and integration with ARKit for Apple platforms.
+
+---
+
 ## Skills
 
+### Languages
+
+Swedish and English.
+
+### Software Development
+
+I have been programming for a number of years now, and have had the opportunity to experience both large and small projects in different settings. They have been personal, academic and commerical projects. I am fascinated by large complex systems and particularly enjoy working on tools for making these systems more manageable. 
+
+I have experience with everything from web and game development to embedded systems (real-time and bare metal), RTL and analog integrated circuits. I have knowledge about operating systems, networking, build systems, containers, SCM, CI/CD, testing, datastructures and algorithms etc.
+
+I have worked with many languages; C, Python, Swift, C++, Java, MATLAB, Rust, Javascript, VHDL, Verilog, Erlang, Haskell, SQL, Assembly (AVR, ARM, MIPS) etc.
+
+### Other
+
+Holds a class B driving license. 
+
+---
+
 ## References
+
+Will be provided upon request.
