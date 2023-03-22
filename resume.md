@@ -1,9 +1,5 @@
 # Hugo Lundin
 
-I am a curious and ambitious person who loves to learn new things. I spend most of my time exploring the world of technology and mathematics.
-
-Do not hesitate to [contact me](mailto:hugo@lundin.dev) if you have any questions, suggestions or just want to chat! :) 
-
 ---
 
 ## Education
