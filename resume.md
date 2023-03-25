@@ -125,9 +125,9 @@ Swedish and English.
 
 I have been programming for a number of years now, and have had the opportunity to experience both large and small projects in different settings. They have been personal, academic and commerical projects. I am fascinated by large complex systems and particularly enjoy working on tools for making these systems more manageable. 
 
-I have experience with everything from web and game development to embedded systems (real-time and bare metal), RTL and analog integrated circuits. I have knowledge about operating systems, networking, build systems, containers, SCM, CI/CD, testing, datastructures and algorithms etc.
+I have experience with everything from web and game development to embedded systems (real-time and bare metal), RTL and analog electronics. I have knowledge about operating systems, networking, build systems, containers, SCM, CI/CD, testing, datastructures and algorithms etc.
 
-I have experience with, among others, C, Python, Swift, C++, Java, MATLAB, Rust, Javascript, VHDL, Verilog, Erlang, Haskell, SQL, Assembly (AVR, ARM, MIPS).
+I am comfortable with most languages and paradigms and have worked with, for example, C, Python, Swift, C++, Java, MATLAB, Rust, Javascript, VHDL, Erlang, Haskell, SQL and Assembly (AVR, ARM, MIPS).
 
 ### Other
 
