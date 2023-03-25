@@ -127,7 +127,7 @@ I have been programming for a number of years now, and have had the opportunity 
 
 I have experience with everything from web and game development to embedded systems (real-time and bare metal), RTL and analog integrated circuits. I have knowledge about operating systems, networking, build systems, containers, SCM, CI/CD, testing, datastructures and algorithms etc.
 
-I have worked with many languages; C, Python, Swift, C++, Java, MATLAB, Rust, Javascript, VHDL, Verilog, Erlang, Haskell, SQL, Assembly (AVR, ARM, MIPS) etc.
+I have experience with, among others, C, Python, Swift, C++, Java, MATLAB, Rust, Javascript, VHDL, Verilog, Erlang, Haskell, SQL, Assembly (AVR, ARM, MIPS).
 
 ### Other
 
