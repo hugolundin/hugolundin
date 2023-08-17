@@ -4,9 +4,9 @@
 
 ## Education
 
-### Linköping University, 2019–2024 <br/>M.Sc. in Computer Science and Engineering
+### [Linköping University](https://liu.se), 2019–2024 <br/>M.Sc. in Computer Science and Engineering
 
-Master's degree in electronics. 
+Master's degree in [electronics](https://www.isy.liu.se/edu/profiler/elektronik).
 
 <details>
   <summary>Courses</summary>
