@@ -19,10 +19,13 @@ Master's degree in electronics.
   * Analog CMOS Integrated Circuits 
   * Analog Filters 
   * Application-Specific Integrated Circuits
+  * Autonomous Vehicles - Planning, Control, and Learning Systems
   * Digital Communication 
   * Digital Filters 
   * Digital Integrated Circuits 
-  * Digital Signal Processing 
+  * Digital Signal Processing
+  * Power Electronics
+  * Radio Frequency Integrated Circuits
 
   ##### Undergraduate courses
 
@@ -88,6 +91,10 @@ Master's degree in electronics.
 ## Work
 
 ### Summer Internship<br/> Teledyne SP Devices, 2023
+
+* Development of new ADQ Digitizer IP in SystemVerilog.
+* Refactoring and development of software in C/C++ to support the IP.
+* Testing and validation with the help of VUnit and digitzer hardware. 
 
 ### Summer Internship<br/> Nira Dynamics, 2022
 
