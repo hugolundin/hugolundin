@@ -123,6 +123,10 @@ Made contributions to [TigerVNC](https://github.com/TigerVNC/tigervnc) for impro
 ---
 
 ## Skills
+![Rust](https://img.shields.io/badge/Rust-7d5d2f?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-176573?style=for-the-badge)
+![Swift](https://img.shields.io/badge/Swift-f0620a?style=for-the-badge)
+
 
 ### Languages
 
