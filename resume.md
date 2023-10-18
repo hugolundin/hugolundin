@@ -92,9 +92,9 @@ Master's degree in [electronics](https://www.isy.liu.se/edu/profiler/elektronik)
 
 ### Summer Internship<br/> [Teledyne SP Devices](https://www.spdevices.com), 2023
 
-* Development of new ADQ Digitizer IP in SystemVerilog.
-* Refactoring and development of software in C/C++ to support the IP.
-* Testing and validation with the help of VUnit and digitzer hardware. 
+* Development of ADQ Digitizer IP in SystemVerilog.
+* Refactoring and development of software (C/C++) for supporting the IP.
+* Testing and validation using VUnit. 
 
 ### Summer Internship<br/> Nira Dynamics, 2022
 
